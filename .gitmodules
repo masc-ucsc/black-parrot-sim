@@ -1,6 +1,6 @@
 [submodule "rtl"]
     path = rtl
-    url = https://github.com/black-parrot/black-parrot/
+    url = https://github.com/masc-ucsc/black-parrot.git
     ignore = dirty
 [submodule "sdk"]
 	path = sdk
