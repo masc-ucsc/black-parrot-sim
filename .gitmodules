@@ -4,5 +4,5 @@
     ignore = dirty
 [submodule "sdk"]
 	path = sdk
-	url = https://github.com/black-parrot-sdk/black-parrot-sdk
+	url = https://github.com/masc-ucsc/black-parrot-sdk.git
     ignore = dirty
