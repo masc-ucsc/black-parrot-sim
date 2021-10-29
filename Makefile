@@ -25,3 +25,5 @@ prep_bsg: prep
 bleach_all:
 	cd $(TOP); git clean -fdx; git submodule deinit -f .
 
+purge:
+	cd rtl/ && rm -rf * && cd ../sdk/ && rm -rf * && cd ..
